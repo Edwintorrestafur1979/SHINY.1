@@ -1,0 +1,12 @@
+name: shiny
+title: SHINY
+username: toreddwin1979
+account: toreddwin1979
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1d70a-4283-79d8-efbb-afe6c8024c36
+bundleId:
+url: https://connect.posit.cloud/toreddwin1979/content/01a1d70a-4283-79d8-efbb-afe6c8024c36
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
